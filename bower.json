@@ -1,0 +1,22 @@
+{
+  "name": "jquery-repository",
+  "description": "Simple abstraction for data-bound HTML.",
+  "main": "src/Repository.js",
+  "authors": [
+    "Temoto-kun <kiiroifuriku@hotmail.com>"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "jQuery",
+    "data",
+    "repository"
+  ],
+  "homepage": "https://github.com/Temoto-kun/jquery-repository",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

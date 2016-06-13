@@ -1,0 +1,24 @@
+{
+  "name": "jquery-repository",
+  "version": "0.1.0",
+  "description": "Simple abstraction for data-bound HTML.",
+  "main": "src/Repository.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "jQuery",
+    "data",
+    "repository"
+  ],
+  "author": "Temoto-kun <kiiroifuriku@hotmail.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Temoto-kun/jquery-repository.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Temoto-kun/jquery-repository/issues"
+  },
+  "homepage": "https://github.com/Temoto-kun/jquery-repository#readme"
+}
